@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Node
+node_modules/
+dist/
+
+# Environment and operating-system files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vendor/
+.pnpm/
+.pnpm-store/
+
+# Local build and test scratch space
+/work/
